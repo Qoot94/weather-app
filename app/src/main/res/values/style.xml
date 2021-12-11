@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="cardview">
+        <item name="android:layout_width">89dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="cardBackgroundColor">#D2A978CA</item>
+        <item name="cardViewStyle">@color/colorGradiantMiddle</item>
+        <item name="cardCornerRadius">20dp</item>
+        <item name="contentPadding">15dp</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/colorGradiantMiddle</item>
+    </style>
+
+    <style name="subcardview">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="cardBackgroundColor">#9CCA84B8</item>
+        <item name="cardCornerRadius">20dp</item>
+        <item name="contentPadding">7dp</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="strokeColor">@color/purple_200</item>
+    </style>
+</resources>
